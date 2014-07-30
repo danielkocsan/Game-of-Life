@@ -1,4 +1,3 @@
-@Pending
 Feature: Any live cell with fewer than two live neighbours dies, as if caused by underpopulation
 
 Scenario: Live cell without neighbours will die

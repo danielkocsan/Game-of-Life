@@ -1,4 +1,3 @@
-@Pending
 Feature: Any live cell with more than three live neighbours dies, as if by overcrowding
 
 Scenario: Live cell with four neightbours will die
