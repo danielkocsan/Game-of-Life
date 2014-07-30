@@ -1,4 +1,3 @@
-@Pending
 Feature: Any live cell with two or three live neighbours lives on to the next generation
 
 Scenario: Live cell with three neighbours will survive
